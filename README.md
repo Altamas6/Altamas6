@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Altamas6
-- 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Github
 - 📫 U can reach me with my insta id al.tamash359
