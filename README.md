@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Altamas</h1>
 
 "🌟 Aspiring Full Stack Web Developer. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
-<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/women-sitting-bean-bag-chair-making-use-laptop-vector-illustration_590570-33.jpg?w=2000">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/564x/bd/b8/d9/bdb8d9ba46a681ff5ac1b5e9400234a3.jpg">
 ## 👩‍💼 Overview About Me 👩‍💼
 - 👩‍💻 I'm from Ludhiana, Punjab.
 - 👩‍💻 Aspiring Full-stack Web Developer
@@ -37,9 +37,8 @@
 
 
 <h1 align="left">📊 GitHub Stats</h1>
-
-![mansibagul82's Stats](https://github-readme-stats.vercel.app/api?username=mansibagul82&theme=radical&show_icons=true&hide_border=false&count_private=false)
-![mansibagul82's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansibagul82&theme=radical&hide_border=false)
-![mansibagul82's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansibagul82&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![Altamas6's Stats](https://github-readme-stats.vercel.app/api?username=Altamas6&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Altamas6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Altamas6&theme=vue-dark&hide_border=false)
+![Altamas6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altamas6&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 Get in Touch
