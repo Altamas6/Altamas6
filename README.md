@@ -16,7 +16,7 @@
 
 <h1>🌐 Socials💫</h1>
 <p align="left">
-<a href="https://github.com/mansibagul82" target="_blank">
+<a href="https://github.com/Altamas6" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="[https://www.linkedin.com/in/kishan-kumar08/](https://www.linkedin.com/in/mansi-ravindra-bagul-00a980265/)" target="_blank">
