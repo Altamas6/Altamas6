@@ -37,8 +37,8 @@
 
 
 <h1 align="left">📊 GitHub Stats</h1>
-![Altamas6's Stats](https://github-readme-stats.vercel.app/api?username=Altamas6&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Altamas6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Altamas6&theme=vue-dark&hide_border=false)
+![Altamas6's Stats](https://github-readme-stats.vercel.app/api?username=Altamas6&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+https://github-readme-streak-stats.herokuapp.com/?user=Altamas6&theme=vue-dark&hide_border=true
 ![Altamas6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altamas6&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 Get in Touch
